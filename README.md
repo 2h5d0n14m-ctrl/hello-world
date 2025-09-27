@@ -1,7 +1,7 @@
 # hello world
 ## 2025_09_21〜
 #### サブサブタイトル
-- test
+- ~~test~~
 - $a^2+b^2=1$
 - repogitory delete
   |xxx|abc|def|
